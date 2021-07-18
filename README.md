@@ -3,8 +3,8 @@
 
 ## Eu sou o Caio Vieira!
  
-Sou um entusiasta apaixonado em aprender sobre tecnologia, aqui você pode ver um pouco mais sobre meu portfólio em programação.<br>
-Buscando conhecimento e experiência para me aprimorar na área de desenvolvimento.
+Sou um estudante de tecnologia e apaixonado em aprender programação, aqui você pode ver um pouco mais sobre meu portfólio.<br>
+Buscando conhecimento e experiência para me aprimorar na área de desenvolvimento web.
 
 ## Entre em contato:
 
